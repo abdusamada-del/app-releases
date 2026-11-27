@@ -1,12 +1,13 @@
 {
   "app": "fami",
   "versionName": "1.6",
-  "versionCode": 11,
+  "versionCode": 12,
   "url": "https://github.com/abdusamada-del/app-releases/releases/download/fami-v1.6/Fami.apk",
-  "size": 20212570,
+  "size": 20215050,
   "notes": [
     "Buttons show when they are pressed",
     "The chosen Silent option stays highlighted",
-    "Simpler phone setup checklist"
+    "Simpler phone setup checklist",
+    "Photo editor with round buttons"
   ]
 }
