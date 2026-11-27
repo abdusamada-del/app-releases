@@ -1,16 +1,11 @@
 {
   "app": "fami",
-  "versionName": "1.3",
-  "versionCode": 7,
-  "url": "https://github.com/abdusamada-del/app-releases/releases/download/fami-v1.3/Fami.apk",
-  "size": 20174363,
+  "versionName": "1.4",
+  "versionCode": 8,
+  "url": "https://github.com/abdusamada-del/app-releases/releases/download/fami-v1.4/Fami.apk",
+  "size": 20176883,
   "notes": [
-    "Calls from parents now open full screen on the child's phone",
-    "Same header on every phone: tap \"Fami\" for updates (red dot)",
-    "Child settings open with the Parent PIN",
-    "New call screen with round buttons",
-    "Add a family member: QR to install Fami + QR to join",
-    "Master can edit names and photos in Connected devices",
-    "Call log for troubleshooting"
+    "Slim Silent and History buttons with symbols: gold bell = ringing, bell with red line = silent",
+    "Missed calls shown as a red number"
   ]
 }
