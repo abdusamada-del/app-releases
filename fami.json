@@ -1,14 +1,12 @@
 {
   "app": "fami",
-  "versionName": "1.5",
-  "versionCode": 10,
-  "url": "https://github.com/abdusamada-del/app-releases/releases/download/fami-v1.5/Fami.apk",
+  "versionName": "1.6",
+  "versionCode": 11,
+  "url": "https://github.com/abdusamada-del/app-releases/releases/download/fami-v1.6/Fami.apk",
   "size": 20212570,
   "notes": [
-    "Photos straighten automatically",
-    "New photo editor: move, zoom, rotate in the round frame",
-    "Phone setup checklist with a red dot on the settings button",
-    "Different symbols for each notification",
-    "Clearer Listen screen"
+    "Buttons show when they are pressed",
+    "The chosen Silent option stays highlighted",
+    "Simpler phone setup checklist"
   ]
 }
