@@ -1,13 +1,11 @@
 {
   "app": "fami",
-  "versionName": "1.6",
-  "versionCode": 12,
-  "url": "https://github.com/abdusamada-del/app-releases/releases/download/fami-v1.6/Fami.apk",
-  "size": 20215050,
+  "versionName": "1.7",
+  "versionCode": 13,
+  "url": "https://github.com/abdusamada-del/app-releases/releases/download/fami-v1.7/Fami.apk",
+  "size": 20215054,
   "notes": [
-    "Buttons show when they are pressed",
-    "The chosen Silent option stays highlighted",
-    "Simpler phone setup checklist",
-    "Photo editor with round buttons"
+    "Calls from parents to children are now normal calls: the child answers or ends them",
+    "No more automatic connecting or ding-dong"
   ]
 }
