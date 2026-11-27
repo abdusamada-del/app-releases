@@ -1,12 +1,16 @@
 {
   "app": "fami",
-  "versionName": "1.2",
-  "versionCode": 6,
-  "url": "https://github.com/abdusamada-del/app-releases/releases/download/fami-v1.2/Fami.apk",
-  "size": 20154542,
+  "versionName": "1.3",
+  "versionCode": 7,
+  "url": "https://github.com/abdusamada-del/app-releases/releases/download/fami-v1.3/Fami.apk",
+  "size": 20174363,
   "notes": [
-    "Updates right inside Fami: tap the Fami icon when it shows a red dot",
-    "New versions download to your Download folder",
-    "Small fixes"
+    "Calls from parents now open full screen on the child's phone",
+    "Same header on every phone: tap \"Fami\" for updates (red dot)",
+    "Child settings open with the Parent PIN",
+    "New call screen with round buttons",
+    "Add a family member: QR to install Fami + QR to join",
+    "Master can edit names and photos in Connected devices",
+    "Call log for troubleshooting"
   ]
 }
