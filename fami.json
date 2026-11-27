@@ -1,0 +1,12 @@
+{
+  "app": "fami",
+  "versionName": "1.2",
+  "versionCode": 6,
+  "url": "https://github.com/abdusamada-del/app-releases/releases/download/fami-v1.2/Fami.apk",
+  "size": 20154542,
+  "notes": [
+    "Updates right inside Fami: tap the Fami icon when it shows a red dot",
+    "New versions download to your Download folder",
+    "Small fixes"
+  ]
+}
