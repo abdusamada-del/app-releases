@@ -1,11 +1,10 @@
 {
   "app": "luma",
-  "versionName": "3.14",
-  "versionCode": 17,
-  "url": "https://github.com/abdusamada-del/app-releases/releases/download/luma-v3.14/LumaPlayer.apk",
-  "size": 7776983,
+  "versionName": "3.15",
+  "versionCode": 18,
+  "url": "https://github.com/abdusamada-del/app-releases/releases/download/luma-v3.15/LumaPlayer.apk",
+  "size": 7776979,
   "notes": [
-    "Check for updates on the About page",
-    "Red dot on the menu when a new version is out"
+    "Lists always open with the big title hidden \u2014 pull down to see it"
   ]
 }
