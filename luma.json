@@ -1,0 +1,11 @@
+{
+  "app": "luma",
+  "versionName": "3.14",
+  "versionCode": 17,
+  "url": "https://github.com/abdusamada-del/app-releases/releases/download/luma-v3.14/LumaPlayer.apk",
+  "size": 7776983,
+  "notes": [
+    "Check for updates on the About page",
+    "Red dot on the menu when a new version is out"
+  ]
+}
